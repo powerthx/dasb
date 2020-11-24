@@ -1,0 +1,65 @@
+Country,Alpha2,Alpha3Code,UNCode
+World,10,100,900
+CIS,11,101,901
+Developed,12,102,902
+Developing,13,103,903
+Europe,14,104,904
+LDCs,15,105,905
+The Americas,16,106,906
+Africa,17,107,907
+Arab States,18,108,908
+Ascension,19,109,909
+Asia & Pacific,20,110,910
+Bolivia (Plurinational State of),BO,BOL,68
+Cote d'Ivoire,CI,CIV,384
+Central African Rep.,CF,CAF,140
+Congo (Dem. Rep.),CD,COD,180
+Congo (Rep.),CG,COG,178
+Curacao,CW,CUW,531
+Dominican Rep.,DO,DOM,214
+Falkland (Malvinas) Is.,FK,FLK,238
+Hong Kong,HK,HKG,344
+Iran (Islamic Republic of),IR,IRN,364
+Korea (Rep. of),KR,KOR,410
+Dem. People's Rep. of Korea,KP,PRK,408
+Kosovo,XK,XKX,383
+Lao P.D.R.,LA,LAO,418
+Macao,MO,MAC,446
+Micronesia,FM,FSM,583
+Nepal (Republic of),NP,NPL,524
+Neth. Antilles,AN,ANT,530
+Northern Marianas,MP,MNP,580
+Palestine,PS,PSE,275
+Saint Vincent and the Grenadines,VC,VCT,670
+St. Helena,SH,SHN,654
+St. Pierre & Miquelon,PM,SPM,666
+Swaziland (Eswatini),SZ,SWZ,748
+Syrian Arab Republic,SY,SYR,760
+Taiwan,TW,TWN,158
+Tanzania,TZ,TZA,834
+TFYR Macedonia,MK,MKD,807
+Trinidad & Tobago,TT,TTO,780
+Turks & Caicos Is.,TC,TCA,796
+United States,US,USA,840
+Venezuela,VE,VEN,862
+Virgin Islands (US),VI,VIR,850
+Wallis and Futuna,WF,WLF,876
+Congo Democratic Republic,CD,COD,180
+Congo Republic,CG,COG,178
+Cote d'Ivoire,CI,CIV,384
+Guinea Bissau,GW,GNB,624
+Iran,IR,IRN,364
+Israel and West Bank,IL,ISR,376
+Kyrgyz Republic,KG,KGZ,417
+Laos,LA,LAO,418
+Macedonia,MK,MKD,807
+Micronesia,FM,FSM,583
+North Korea,KP,PRK,408
+Russia,RU,RUS,643
+Slovak Republic,SK,SVK,703
+South Korea,KR,KOR,410
+Syria,SY,SYR,760
+Tanzania,TZ,TZA,834
+United States,US,USA,840
+Venezuela,VE,VEN,862
+Vietnam,VN,VNM,704
